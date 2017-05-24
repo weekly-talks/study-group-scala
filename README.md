@@ -25,3 +25,7 @@ Other options include:
 - other articles and tutorials on the internet, but we haven't reviewed them yet
 
 We have both people who start from EPFL's courses and from official tutorials. Ask for their feedback on how it goes ;)
+
+## Scala Programming for Data Science
+
+Lightbend created a free learning path consisting of three courses on application of Scala programming for Data Science at https://bigdatauniversity.com/learn/scala/.
